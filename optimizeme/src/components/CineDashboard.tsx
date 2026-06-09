@@ -10,7 +10,12 @@ const moviesData: Movie[] = [
   { id: 3, title: "Cyber Horizon 2099", year: "2026", rating: 9.1, duration: "2h 35m", category: "Sci-Fi", image: "https://m.media-amazon.com/images/M/MV5BMWZmNTIxYjAtODMxMi00NGRkLTk1NmUtMzQ5YWJlZjUwZGQ3XkEyXkFqcGc@._V1_.jpg", trailerId: "dQw4w9WgXcQ" },
   { id: 4, title: "The Last Echo Chronicles", year: "2023", rating: 8.2, duration: "2h 05m", category: "Action", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlIkt7NNnmaDZlWhhL-YVyiE3rUKprjp1rDyrVJq_rPDo-1_TUt5wM_WE&s=10", trailerId: "dQw4w9WgXcQ"},
   { id: 5, title: "Interstellar Voyage", year: "2025", rating: 8.9, duration: "2h 42m", category: "Sci-Fi", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9WqHtUSGKEu9fLzelLCPer4Dmu7T7HZUYWp13lNGMA&s=10", trailerId: "dQw4w9WgXcQ" },
-  { id: 6, title: "Rogue Agent", year: "2024", rating: 7.9, duration: "1h 48m", category: "Action", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXX-mZp5iXWUc3YQYa3H1pfuZTJYjuKZifLN4Ov_C9FQ&s=10", trailerId: "dQw4w9WgXcQ" }
+  { id: 6, title: "Rogue Agent", year: "2024", rating: 7.9, duration: "1h 48m", category: "Action", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXX-mZp5iXWUc3YQYa3H1pfuZTJYjuKZifLN4Ov_C9FQ&s=10", trailerId: "dQw4w9WgXcQ" },
+  { id: 7, title: "Apex Predator", year: "2025", rating: 8.6, duration: "2h 10m", category: "Action", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTyBKpUFnXDUCpdGTxBJUQMIDg4NXvbp-wMQ&s", trailerId: "8w6bI59-99E" },
+  { id: 8, title: "Chrono Drift", year: "2026", rating: 9.3, duration: "2h 22m", category: "Trending", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Vv6iHJP2MehSuf0_zq-Hhh8pPbSb3wUcZta2D4dFOw&s=10", trailerId: "b9MyLb6a66s" },
+  { id: 9, title: "Neon Samurai", year: "2024", rating: 8.1, duration: "1h 50m", category: "Action", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTupwPzYLGx8Hj93-UYW6wWzw2TZMBWZi86Jh58VNZlSA&s=10", trailerId: "8w6bI59-99E" },
+  { id: 10, title: "Deep Void Eclipse", year: "2025", rating: 8.7, duration: "2h 04m", category: "Trending", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lIk3qwbAGKl4YxPUSF5Tsq1vWKv5Gezp5RTPpKxsFQ&s=10", trailerId: "8g18jFHjaHs" },
+  { id: 11, title: "The Martian Colony", year: "2026", rating: 9.0, duration: "2h 15m", category: "Trending", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxePCCYGXLBn27BeTikkJGdVrewmxGW9252OwYhhRyWw&s=10", trailerId: "HhesaDFLLIs" }
 ];
 
 export default function CineDashboard() {
